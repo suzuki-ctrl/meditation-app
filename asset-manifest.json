@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meditation-app/static/css/main.d9a0ea41.css",
+    "main.js": "/meditation-app/static/js/main.e984bcb5.js",
+    "static/js/787.6c3af52a.chunk.js": "/meditation-app/static/js/787.6c3af52a.chunk.js",
+    "static/media/aurora-1197753_1920.jpg": "/meditation-app/static/media/aurora-1197753_1920.3977c3cb6af9300ee289.jpg",
+    "index.html": "/meditation-app/index.html",
+    "main.d9a0ea41.css.map": "/meditation-app/static/css/main.d9a0ea41.css.map",
+    "main.e984bcb5.js.map": "/meditation-app/static/js/main.e984bcb5.js.map",
+    "787.6c3af52a.chunk.js.map": "/meditation-app/static/js/787.6c3af52a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a0ea41.css",
+    "static/js/main.e984bcb5.js"
+  ]
+}
